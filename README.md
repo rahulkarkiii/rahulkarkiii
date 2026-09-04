@@ -74,30 +74,7 @@ fun_fact: "I enjoy turning simple ideas into real, working backend systems 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulkarkiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkiii&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarkiii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
-## 📈 Commit Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkarkiii&theme=tokyo-night&hide_border=true&area=true&custom_title=Rahul's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulkarkiii&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkiii&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
