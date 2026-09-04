@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:00F7FF&height=200&section=header&text=Rahul%20Karki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20in%20the%20Making%20🏔️&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+Learner+%F0%9F%92%BB;Node.js+%26+Express+Explorer;API+%26+Database+Enthusiast;Building+Systems+That+Scale;Always+Learning+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Node.js+%26+Express+Developer;Building+Systems+That+Scale;Server-Side+Logic+is+My+Craft;Always+Learning+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <img src="https://komarev.com/ghpvc/?username=rahulkarkiii&label=Profile%20views&color=0047FF&style=for-the-badge" alt="Profile Views"/>
 
@@ -15,9 +15,9 @@
 ```yaml
 name: Rahul Karki
 location: Nepal 🇳🇵 - Land of the Himalayas
-role: Aspiring Backend Developer
-currently_learning: [Node.js, Express, Databases, REST APIs]
-interests: [Server Architecture, APIs, Databases, System Design]
+role: Backend Developer
+currently_learning: [Node.js, Express, Databases, System Design]
+interests: [Server-Side Development, Backend Architecture, Scalable Systems]
 fun_fact: "I enjoy turning simple ideas into real, working backend systems 🚀"
 ```
 
@@ -68,6 +68,16 @@ fun_fact: "I enjoy turning simple ideas into real, working backend systems 🚀"
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkiii&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarkiii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<br/>
+
+## 📈 Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulkarkiii&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
