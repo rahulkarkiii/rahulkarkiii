@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Karki</h1>
 <h3 align="center">🌄 Backend Developer in the Making from the Land of Himalayas, Nepal</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+Learner;Node.js+Beginner+⚙️;Server-Side+Explorer;Turning+Ideas+Into+Backend+Systems;Always+Building+🚀" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+Learner;React+Beginner+⚛️;UI+%26+UX+Explorer;Turning+Ideas+Into+Web+Apps;Always+Building+🚀" alt="Typing Animation"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulkarkiii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -10,19 +10,19 @@
 ### 🧠 About Me  
 - 🌄 From **Nepal – Land of Himalayas**
 - 🎓 Passionate about becoming a **Backend Developer**
-- ⚙️ Currently learning **Node.js**
-- 🌐 Interested in building robust and scalable backend systems
-- 💡 Exploring how servers, databases, and APIs come together in modern web apps
+- ⚛️ Currently learning **Django**
+- 🌐 Interested in building clean and interactive web interfaces
+- 💡 Exploring how design and code come together in modern web apps
 ---
 ### 📚 Currently Learning  
-- ⚙️ **Node.js** (Beginner level)
-- 🌐 **HTML, CSS & JavaScript (Core Fundamentals)**
-- 🗄️ Database basics and server-side logic
-- 🧩 Basics of backend architecture
+- ⚛️ **Django** (Core Backend)
+- 🌐 **HTML, CSS & JavaScript, React.js (Core Frontend)**
+- 🎨 UI building and responsive design concepts
+- 🧩 Basics of component-based architecture
 ---
 ### 💻 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 ---
 ### 🛠️ Tools  
@@ -49,6 +49,7 @@
 </p>
 ---
 ### ⚡ Fun Fact  
-I enjoy turning simple ideas into real, interactive backend systems using code 🚀
+I enjoy turning simple ideas into real, interactive web experiences using code 🚀
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=120&section=footer"/>
+ make it  more beautiful and stylish and also make frontend developer to backend developer
