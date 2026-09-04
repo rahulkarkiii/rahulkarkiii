@@ -1,81 +1,101 @@
-<h1 align="center">Hi 👋, I'm Rahul Karki</h1>
-<h3 align="center">🌄 Frontend Developer in the Making from the Land of Himalayas, Nepal</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+Learner;React+Beginner+⚛️;UI+%26+UX+Explorer;Turning+Ideas+Into+Web+Apps;Always+Building+🚀" alt="Typing Animation"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,100:00F7FF&height=200&section=header&text=Rahul%20Karki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20in%20the%20Making%20🏔️&descAlignY=55&descSize=18"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkarkiii&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer+Learner+%F0%9F%92%BB;Node.js+%26+Express+Explorer;API+%26+Database+Enthusiast;Building+Systems+That+Scale;Always+Learning+%F0%9F%9A%80" alt="Typing Animation"/>
 
----
+<img src="https://komarev.com/ghpvc/?username=rahulkarkiii&label=Profile%20views&color=0047FF&style=for-the-badge" alt="Profile Views"/>
 
-### 🧠 About Me  
+</div>
 
-- 🌄 From **Nepal – Land of Himalayas**
-- 🎓 Passionate about becoming a **Frontend Developer**
-- ⚛️ Currently learning **React.js**
-- 🌐 Interested in building clean and interactive web interfaces
-- 💡 Exploring how design and code come together in modern web apps
+<br/>
 
----
+## 🧠 About Me
 
-### 📚 Currently Learning  
+```yaml
+name: Rahul Karki
+location: Nepal 🇳🇵 - Land of the Himalayas
+role: Aspiring Backend Developer
+currently_learning: [Node.js, Express, Databases, REST APIs]
+interests: [Server Architecture, APIs, Databases, System Design]
+fun_fact: "I enjoy turning simple ideas into real, working backend systems 🚀"
+```
 
-- ⚛️ **React.js** (Beginner level)
-- 🌐 **HTML, CSS & JavaScript (Core Frontend)**
-- 🎨 UI building and responsive design concepts
-- 🧩 Basics of component-based architecture
+<br/>
 
----
+## 📚 Currently Learning
 
-### 💻 Tech Stack  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+**🖥️ Backend Fundamentals**
+- 🟢 Node.js & Express.js
+- 🗄️ Database design (SQL & NoSQL)
+- 🔗 Building & consuming REST APIs
+- 🔐 Authentication & authorization basics
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🛠️ Tools  
+**🧩 Core Concepts**
+- 🌐 HTTP, servers & how the web works
+- 🏗️ Backend architecture patterns
+- ⚙️ Version control with Git & GitHub
+- 🧠 Problem-solving & clean code practices
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📊 GitHub Stats  
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rahulkarki&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,html,css,mongodb,mysql,git,github,vscode" />
 
-### 🌐 Connect With Me  
+</div>
 
-<p align="center">
-  <a href="mailto:rahulkarkeee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<br/>
 
-  <a href="https://www.instagram.com/r4hul.k4rki/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+## 📊 GitHub Stats
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rahulkarkiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkarkiii&theme=tokyonight&hide_border=true" height="165"/>
 
-### ⚡ Fun Fact  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkarkiii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-I enjoy turning simple ideas into real, interactive web experiences using code 🚀
+</div>
 
----
+<br/>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rahulkarkeee@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/r4hul.k4rki/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### ⚡ Fun Fact
+I enjoy turning simple ideas into real, working **backend systems** using code 🚀
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0047FF&height=120&section=footer"/>
